@@ -1,0 +1,25 @@
+# Node (TypeScript / JavaScript)
+node_modules/
+dist/
+coverage/
+.env
+*.log
+*.tsbuildinfo
+
+# TypeScript-specific
+*.d.ts
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+venv/
+.Python
+pip-log.txt
+
+# Python tools
+.coverage
+.mypy_cache/
+.pytest
