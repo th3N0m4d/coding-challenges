@@ -5,8 +5,6 @@
 [![Build](https://img.shields.io/github/actions/workflow/status/th3N0m4d/coding-challenges/ci.yml?branch=main)](https://github.com/th3N0m4d/coding-challenges/actions)
 [![License](https://img.shields.io/github/license/th3N0m4d/coding-challenges)](./LICENSE)
 
----
-
 ## 🧪 About
 
 This repo contains algorithm and data structure challenges implemented with **Test-Driven Development (TDD)** in:
@@ -17,8 +15,6 @@ This repo contains algorithm and data structure challenges implemented with **Te
 The goal is to sharpen algorithmic thinking, practice clean code, and maintain discipline through proper testing and structure.
 
 > _"Amateurs hack. Pros test first."_
-
----
 
 ## 🗂️ Folder Structure
 
@@ -34,8 +30,6 @@ coding-challenges/
 │       └── test_two_sum.py
 └── README.md
 ```
-
----
 
 ## 🚀 Scripts
 
@@ -58,15 +52,11 @@ make lint                   # Lint Python files
 make format                 # Format with black
 ```
 
----
-
 ## 📌 Platforms Covered
 
 - [LeetCode](https://leetcode.com)
 - [Codewars](https://www.codewars.com)
 - [HackerRank](https://www.hackerrank.com)
-
----
 
 ## 📈 Roadmap
 
@@ -76,9 +66,3 @@ make format                 # Format with black
 - [ ] Add difficulty labels to each challenge
 - [ ] Track time complexity per solution
 - [ ] Python TDD fluency
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
