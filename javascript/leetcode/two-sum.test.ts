@@ -1,6 +1,6 @@
 import twoSum from "./two-sum";
 
-describe("LeetCode Challenges", () => {
+describe("#1 Two Sum", () => {
   it.each`
     nums                    | target | result
     ${[2, 7, 11, 15]}       | ${9}   | ${[0, 1]}
